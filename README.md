@@ -1,4 +1,4 @@
-# Simulating Epidemics
+# Simple Epidemic Simulation
 
 This is a simple Mathematica code for teaching purposes. It describes the dynamics of an SIRD epidemiological model (susceptibles, infected, recovered and deads).
 
